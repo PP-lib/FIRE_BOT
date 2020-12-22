@@ -1,0 +1,10 @@
+#プログラム稼働中に変更する必要がある設定（全体）
+
+
+# strategy_name: RSI_LOGIC.py             #ロジック名
+strategy_settings: RSI_LOGIC.yaml       #ロジックのセッティング
+
+apikey: 'ScdrTUJ6AkYX1Fwk3u6kWe'
+secret: 't81+1ptGH5wdkxITxxJkf21zBy+NUrVaNqaD4971zI4='
+
+candle_length : 15       #ローソク足(秒)

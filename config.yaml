@@ -1,0 +1,11 @@
+asa:
+  aisatsu: 'Good morning'
+ 
+hiru:
+  aisatsu: 'Good afternoon'
+ 
+yoru:
+  aisatsu: 'Good evening'
+
+set:
+  imp: 'time'
